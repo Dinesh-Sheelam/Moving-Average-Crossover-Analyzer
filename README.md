@@ -13,5 +13,3 @@ The system leverages Google Sheets as a live data layer, fetching continuously u
 📊 Detects and visualizes Golden / Death Cross events with interactive Streamlit charts (▲ = bullish, ▼ = bearish).
 
 🧭 “All Stocks” / “Crossed Stocks” toggle for dynamic filtering of recent signals.
-
-📥 Downloadable crossover summary table for offline or back-testing use.
